@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\SS5Player.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\SS5PlayerPlatform.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\common\Animator\ssplayer_effect.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\common\Animator\ssplayer_effect2.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\common\Animator\ssplayer_effectfunction.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\common\Animator\ssplayer_matrix.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\common\Animator\ssplayer_PartState.cpp" />
+    <ClCompile Include="C:\Users\Fumito\Downloads\ssbpLib-master\ssbpLib-master\Players\ssbpLib\common\Helper\DebugPrint.cpp" />
+  </ItemGroup>
+</Project>
