@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>D:\test\test\ARM\Debug\libAndroid1.so;C:\Microsoft\AndroidNDK64\android-ndk-r15c\prebuilt\android-arm\gdbserver\gdbserver;C:\Microsoft\AndroidNDK64\android-ndk-r15c\sources\cxx-stl\gnu-libstdc++\4.9\libs\armeabi-v7a\libgnustl_static.a</SOLibPaths>
+  <AndroidLibPaths></AndroidLibPaths>
+  <OObjPaths>D:\test\test\Android1\Android1.NativeActivity\ARM\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>ARM</Platform>
+  <AndroidArchitecture>armeabi-v7a</AndroidArchitecture>
+</project>
